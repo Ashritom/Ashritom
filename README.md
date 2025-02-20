@@ -5,7 +5,7 @@
 
 "Aspiring Cybersecurity Specialist 🛡️ | Code Enthusiast 💻 | AI Explorer 🤖 | MS Trainer 📚
 
-🎓 I'm a second-year student pursuing a Bachelor's degree in Computer Science Engineering at Raghu Engineering College,
+🎓 I'm a third-year student pursuing a Bachelor's degree in Computer Science Engineering at Raghu Engineering College,
     with a dedicated focus on Cybersecurity.
 
 👨‍💻 While I may not claim perfection, I've honed my skills in C and Python, 
