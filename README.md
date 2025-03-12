@@ -32,7 +32,7 @@ My journey is fueled by the desire to leverage my strengths in problem-solving, 
 - [Java Programs](https://github.com/Ashritom/Java-Programs.git)
 - [C Programs](https://github.com/Ashritom/C-programs.git)
 
-
+<!--
 
 ---
 
@@ -82,7 +82,7 @@ My journey is fueled by the desire to leverage my strengths in problem-solving, 
 
 
 ---
-
+-->
 ## 🌐 Connect with Me
 
 <a href="https:/www.linkedin.com/in/ashrit-k-38588024a/" target="blank">
@@ -91,11 +91,11 @@ My journey is fueled by the desire to leverage my strengths in problem-solving, 
 <a href="https://www.instagram.com/dilipkumarpulamarasetty/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-
+<!--
 <a href="https://dilipatchuthkumar.github.io/" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-f00000?style=for-the-badge&logo=link&logoColor=white">
 </a>
-
+-->
 ---
 
 ## 📈 GitHub Statistics
